@@ -63,7 +63,8 @@ Also if we have extra parameters in .pm that is not in modelcard for nmos/pmos g
 ngspice inverter.sp
 
 ```
-Refer the Sample outputs for clarity and crosschecking.
+Refer the Sample outputs for clarity and crosschecking. The Screenshots are included below for your reference.
+
 </p>
 
 
