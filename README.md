@@ -67,6 +67,11 @@ Refer the Sample outputs for clarity and crosschecking. The Screenshots are incl
 
 </p>
 
+![Screenshot from 2024-05-26 17-35-33](https://github.com/AsahiroKenpachi/avsd_iiitdm_7nm_dac/assets/137492506/55cefe47-7bb6-444c-b0de-6f204ad02e7a)
+![Screenshot from 2024-05-26 17-18-23](https://github.com/AsahiroKenpachi/avsd_iiitdm_7nm_dac/assets/137492506/5d5d24dc-536e-424e-909d-7f6366bf2333)
+![Screenshot from 2024-05-26 16-29-51 (copy)](https://github.com/AsahiroKenpachi/avsd_iiitdm_7nm_dac/assets/137492506/1a4aca48-4756-4c7b-9236-626d5da83937)
+
+
 
 
 
